@@ -1,0 +1,70 @@
+.font{
+    font-family: Courier;
+}
+
+.arrange {
+    font-size: 25px;
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.div1 {
+    color:azure;
+    text-align:center;
+    font-family:Courier;
+}
+
+.button {
+    padding: 10px;
+    margin: auto;
+    display: flex;
+}
+
+.body {
+    background-image: linear-gradient(to right, #9600FF , #AEBAF8);
+}
+
+.logo{
+    float: left;
+    padding-left: 0px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+
+.class1 {
+    float: left;
+    padding-left: 14px;
+    padding-top: 28px;
+    color: azure;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding-top: 0px;
+overflow: hidden;
+background-color: #333;
+font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+float: right;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 28px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
